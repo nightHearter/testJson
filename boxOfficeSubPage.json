@@ -1,1 +1,4201 @@
-{  "code": 0,  "message": "success",  "result": {    "id": "123456",    "name": "速度与激情8",    "image": "http://img06.tooopen.com/images/20161106/tooopen_sy_185050549459.jpg",    "collected": "true",    "genre": "动作/喜剧",    "days": "3",    "country": "中国",    "auteur": "F•加里•格雷",    "company": "xxxx影视有限公司",    "box_office": {      "calculate": "57000000",      "total": "69000000"    },    "film_number": {      "calculate": "880000",      "total": "600000"    },    "peoples": {      "calculate": "2.60000000",      "total": "1.90000000"    },    "occupancy": {      "calculate": "0.92",      "total": "0.32"    },    "seats": {      "calculate": "0.81",      "total": "0.66"    },    "countdown": "2016-811-26 19:20:31",    "screen_type": [      {        "type": "all",        "box_office_cumulative": "47251000",        "box_office_calculate": "87958500",        "weeks_list": [          {            "week": "三",            "data": "201611",            "day_list": [              {                "day": "21",                "date": "2016年11月21日",                "sunday": "二",                "day_box_office": "6900000",                "box_office": {                  "calculate": "57000000",                  "total": "69000000"                },                "film_number": {                  "calculate": "880000",                  "total": "600000"                },                "peoples": {                  "calculate": "2.60000000",                  "total": "1.90000000"                },                "occupancy": {                  "calculate": "0.92",                  "total": "0.32"                },                "seats": {                  "calculate": "0.81",                  "total": "0.66"                }              },              {                "day": "20",                "date": "2016年11月20日",                "sunday": "一",                "day_box_office": "6900000",                "box_office": {                  "calculate": "57000000",                  "total": "69000000"                },                "film_number": {                  "calculate": "880000",                  "total": "600000"                },                "peoples": {                  "calculate": "2.60000000",                  "total": "1.90000000"                },                "occupancy": {                  "calculate": "0.92",                  "total": "0.32"                },                "seats": {                  "calculate": "0.81",                  "total": "0.66"                }              }            ]          },          {            "week": "二",            "data": "201611",            "day_list": [              {                "day": "21",                "date": "2016年11月21日",                "sunday": "二",                "day_box_office": "6900000",                "box_office": {                  "calculate": "57000000",                  "total": "69000000"                },                "film_number": {                  "calculate": "880000",                  "total": "600000"                },                "peoples": {                  "calculate": "2.60000000",                  "total": "1.90000000"                },                "occupancy": {                  "calculate": "0.92",                  "total": "0.32"                },                "seats": {                  "calculate": "0.81",                  "total": "0.66"                }              },              {                "day": "20",                "date": "2016年11月20日",                "sunday": "一",                "day_box_office": "6900000",                "box_office": {                  "calculate": "57000000",                  "total": "69000000"                },                "film_number": {                  "calculate": "880000",                  "total": "600000"                },                "peoples": {                  "calculate": "2.60000000",                  "total": "1.90000000"                },                "occupancy": {                  "calculate": "0.92",                  "total": "0.32"                },                "seats": {                  "calculate": "0.81",                  "total": "0.66"                }              }            ]          }        ]      },      {        "type": "2D",        "box_office_cumulative": "47251000",        "box_office_calculate": "87958500",        "weeks_list": [          {            "week": "三",            "data": "201611",            "day_list": [              {                "day": "21",                "date": "2016年11月21日",                "sunday": "二",                "day_box_office": "6900000",                "box_office": {                  "calculate": "57000000",                  "total": "69000000"                },                "film_number": {                  "calculate": "880000",                  "total": "600000"                },                "peoples": {                  "calculate": "2.60000000",                  "total": "1.90000000"                },                "occupancy": {                  "calculate": "0.92",                  "total": "0.32"                },                "seats": {                  "calculate": "0.81",                  "total": "0.66"                }              },              {                "day": "20",                "date": "2016年11月20日",                "sunday": "一",                "day_box_office": "6900000",                "box_office": {                  "calculate": "57000000",                  "total": "69000000"                },                "film_number": {                  "calculate": "880000",                  "total": "600000"                },                "peoples": {                  "calculate": "2.60000000",                  "total": "1.90000000"                },                "occupancy": {                  "calculate": "0.92",                  "total": "0.32"                },                "seats": {                  "calculate": "0.81",                  "total": "0.66"                }              }            ]          },          {            "week": "二",            "data": "201611",            "day_list": [              {                "day": "21",                "date": "2016年11月21日",                "sunday": "二",                "day_box_office": "6900000",                "box_office": {                  "calculate": "57000000",                  "total": "69000000"                },                "film_number": {                  "calculate": "880000",                  "total": "600000"                },                "peoples": {                  "calculate": "2.60000000",                  "total": "1.90000000"                },                "occupancy": {                  "calculate": "0.92",                  "total": "0.32"                },                "seats": {                  "calculate": "0.81",                  "total": "0.66"                }              },              {                "day": "20",                "date": "2016年11月20日",                "sunday": "一",                "day_box_office": "6900000",                "box_office": {                  "calculate": "57000000",                  "total": "69000000"                },                "film_number": {                  "calculate": "880000",                  "total": "600000"                },                "peoples": {                  "calculate": "2.60000000",                  "total": "1.90000000"                },                "occupancy": {                  "calculate": "0.92",                  "total": "0.32"                },                "seats": {                  "calculate": "0.81",                  "total": "0.66"                }              }            ]          }        ]      }    ],    "district": [      {        "district_name": "华东区",        "district_calculate": "825457646",        "district_total": "958469999"      },      {        "district_name": "华北区",        "district_calculate": "825457646",        "district_total": "958469999"      }    ],    "province": [      {        "province_name": "广东省",        "provincet_calculate": "825457646",        "province_total": "958469999"      },      {        "province_name": "浙江省",        "provincet_calculate": "825457646",        "province_total": "958469999"      }    ],    "city": [      {        "city_name": "广州",        "city_calculate": "825457646",        "city_total": "958469999"      },      {        "city_name": "深圳",        "city_calculate": "825457646",        "city_total": "958469999"      }    ],    "cinema": [      {        "cinema_name": "万达影院",        "cinema_calculate": "825457646",        "cinema_total": "958469999"      },      {        "cinema_name": "金逸影城",        "cinema_calculate": "825457646",        "cinema_total": "958469999"      }    ],    "distribution_channel": {      "online": "0.61",      "line": "0.39",      "online_ticket": "825457646",      "line_ticket": "645153754"    }  }}
+{
+  "code": 0,
+  "message": "success",
+  "result": {
+    "id": "10001",
+    "name": "速度与激情8",
+    "image": "https://ws3.sinaimg.cn/large/9632d3f5jw1fayd1y7jexj20ku0dw10t.jpg",
+    "collected": "true",
+    "genre": "动作/喜剧",
+    "days": "3",
+    "country": "中国",
+    "auteur": "F?加里?格雷",
+    "company": "我的影视有限公司",
+    "box_office": {
+      "calculate": "6900",
+      "total": "5700"
+    },
+    "film_number": {
+      "calculate": "88",
+      "total": "60"
+    },
+    "peoples": {
+      "calculate": "2.6",
+      "total": "1.9"
+    },
+    "occupancy": {
+      "calculate": "100",
+      "total": "32"
+    },
+    "seats": {
+      "calculate": "100",
+      "total": "66"
+    },
+    "countdown": "2016-12-29 19:20:31",
+    "screen_type": [
+      {
+        "type": "ALL",
+        "box_office_cumulative": "4725.1",
+        "box_office_calculate": "8795.8",
+        "weeks_list": [
+          {
+            "week": "四",
+            "data": "201612",
+            "day_list": [
+              {
+                "day": "18",
+                "date": "2016年12月18日",
+                "sunday": "日",
+                "day_box_office": "21174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "31"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "67"
+                }
+              },
+              {
+                "day": "17",
+                "date": "2016年12月17日",
+                "sunday": "六",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "16",
+                "date": "2016年12月16日",
+                "sunday": "五",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "15",
+                "date": "2016年12月15日",
+                "sunday": "四",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "14",
+                "date": "2016年12月14日",
+                "sunday": "三",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "13",
+                "date": "2016年12月13日",
+                "sunday": "二",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "12",
+                "date": "2016年12月12日",
+                "sunday": "一",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              }
+            ]
+          },
+          {
+            "week": "三",
+            "data": "201612",
+            "day_list": [
+              {
+                "day": "18",
+                "date": "2016年12月18日",
+                "sunday": "日",
+                "day_box_office": "21174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "31"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "67"
+                }
+              },
+              {
+                "day": "17",
+                "date": "2016年12月17日",
+                "sunday": "六",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "16",
+                "date": "2016年12月16日",
+                "sunday": "五",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "15",
+                "date": "2016年12月15日",
+                "sunday": "四",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "14",
+                "date": "2016年12月14日",
+                "sunday": "三",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "13",
+                "date": "2016年12月13日",
+                "sunday": "二",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "12",
+                "date": "2016年12月12日",
+                "sunday": "一",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              }
+            ]
+          },
+          {
+            "week": "二",
+            "data": "201612",
+            "day_list": [
+              {
+                "day": "18",
+                "date": "2016年12月18日",
+                "sunday": "日",
+                "day_box_office": "21174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "31"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "67"
+                }
+              },
+              {
+                "day": "17",
+                "date": "2016年12月17日",
+                "sunday": "六",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "16",
+                "date": "2016年12月16日",
+                "sunday": "五",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "15",
+                "date": "2016年12月15日",
+                "sunday": "四",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "14",
+                "date": "2016年12月14日",
+                "sunday": "三",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "13",
+                "date": "2016年12月13日",
+                "sunday": "二",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "12",
+                "date": "2016年12月12日",
+                "sunday": "一",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              }
+            ]
+          },
+          {
+            "week": "一",
+            "data": "201612",
+            "day_list": [
+              {
+                "day": "18",
+                "date": "2016年12月18日",
+                "sunday": "日",
+                "day_box_office": "21174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "31"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "67"
+                }
+              },
+              {
+                "day": "17",
+                "date": "2016年12月17日",
+                "sunday": "六",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "16",
+                "date": "2016年12月16日",
+                "sunday": "五",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "15",
+                "date": "2016年12月15日",
+                "sunday": "四",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "14",
+                "date": "2016年12月14日",
+                "sunday": "三",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "13",
+                "date": "2016年12月13日",
+                "sunday": "二",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "12",
+                "date": "2016年12月12日",
+                "sunday": "一",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              }
+            ]
+          }
+        ],
+        "district": [
+          {
+            "district_name": "华东区1",
+            "district_calculate": "958469999",
+            "district_total": "123457646"
+          },
+          {
+            "district_name": "华东区2",
+            "district_calculate": "958469999",
+            "district_total": "456457646"
+          },
+          {
+            "district_name": "华东区3",
+            "district_calculate": "958469999",
+            "district_total": "789457646"
+          },
+          {
+            "district_name": "华东区4",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          },
+          {
+            "district_name": "华北区5",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          },
+          {
+            "district_name": "华北区6",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          },
+          {
+            "district_name": "华北区7",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          },
+          {
+            "district_name": "华北区8",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          },
+          {
+            "district_name": "华北区9",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          },
+          {
+            "district_name": "华北区10",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          }
+        ],
+        "province": [
+          {
+            "province_name": "广东省1",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "广东省2",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "广东省3",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "广东省4",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省5",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省6",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省7",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省8",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省9",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省10",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省11",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          }
+        ],
+        "city": [
+          {
+            "city_name": "广州1",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州2",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州3",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州4",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州5",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州6",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州7",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州8",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州9",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "深圳10",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          }
+        ],
+        "cinema": [
+          {
+            "cinema_name": "万达影院1",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院1",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院2",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院23",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院4",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院5",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院6",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "金逸影城7",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "金逸影城8",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "金逸影城9",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "金逸影城10",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          }
+        ],
+        "distribution_channel": {
+          "online": "54",
+          "line": "46",
+          "online_ticket": "958469999",
+          "line_ticket": "666153754"
+        }
+      },
+      {
+        "type": "2D",
+        "box_office_cumulative": "4567",
+        "box_office_calculate": "8795.8",
+        "weeks_list": [
+          {
+            "week": "三",
+            "data": "201612",
+            "day_list": [
+              {
+                "day": "18",
+                "date": "2016年12月18日",
+                "sunday": "日",
+                "day_box_office": "21174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "31"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "67"
+                }
+              },
+              {
+                "day": "17",
+                "date": "2016年12月17日",
+                "sunday": "六",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "16",
+                "date": "2016年12月16日",
+                "sunday": "五",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "15",
+                "date": "2016年12月15日",
+                "sunday": "四",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "14",
+                "date": "2016年12月14日",
+                "sunday": "三",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "13",
+                "date": "2016年12月13日",
+                "sunday": "二",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "12",
+                "date": "2016年12月12日",
+                "sunday": "一",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              }
+            ]
+          },
+          {
+            "week": "二",
+            "data": "201612",
+            "day_list": [
+              {
+                "day": "18",
+                "date": "2016年12月18日",
+                "sunday": "日",
+                "day_box_office": "21174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "31"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "67"
+                }
+              },
+              {
+                "day": "17",
+                "date": "2016年12月17日",
+                "sunday": "六",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "16",
+                "date": "2016年12月16日",
+                "sunday": "五",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "15",
+                "date": "2016年12月15日",
+                "sunday": "四",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "14",
+                "date": "2016年12月14日",
+                "sunday": "三",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "13",
+                "date": "2016年12月13日",
+                "sunday": "二",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "12",
+                "date": "2016年12月12日",
+                "sunday": "一",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              }
+            ]
+          },
+          {
+            "week": "二",
+            "data": "201612",
+            "day_list": [
+              {
+                "day": "18",
+                "date": "2016年12月18日",
+                "sunday": "日",
+                "day_box_office": "21174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "31"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "67"
+                }
+              },
+              {
+                "day": "17",
+                "date": "2016年12月17日",
+                "sunday": "六",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "16",
+                "date": "2016年12月16日",
+                "sunday": "五",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "15",
+                "date": "2016年12月15日",
+                "sunday": "四",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "14",
+                "date": "2016年12月14日",
+                "sunday": "三",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "13",
+                "date": "2016年12月13日",
+                "sunday": "二",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "12",
+                "date": "2016年12月12日",
+                "sunday": "一",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              }
+            ]
+          }
+        ],
+        "district": [
+          {
+            "district_name": "华东区1",
+            "district_calculate": "958469999",
+            "district_total": "789457646"
+          },
+          {
+            "district_name": "华东区2",
+            "district_calculate": "958469999",
+            "district_total": "456457646"
+          },
+          {
+            "district_name": "华东区3",
+            "district_calculate": "958469999",
+            "district_total": "123457646"
+          },
+          {
+            "district_name": "华东区4",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          },
+          {
+            "district_name": "华北区5",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          },
+          {
+            "district_name": "华北区6",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          },
+          {
+            "district_name": "华北区7",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          },
+          {
+            "district_name": "华北区8",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          },
+          {
+            "district_name": "华北区9",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          },
+          {
+            "district_name": "华北区10",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          }
+        ],
+        "province": [
+          {
+            "province_name": "广东省10",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "广东省9",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "广东省8",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "广东省7",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省6",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省5",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省4",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省3",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省2",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省1",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省00",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          }
+        ],
+        "city": [
+          {
+            "city_name": "广州1",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州2",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州3",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州4",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州5",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州6",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州7",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州8",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州9",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "深圳10",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          }
+        ],
+        "cinema": [
+          {
+            "cinema_name": "万达影院10",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院9",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院8",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院7",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院6",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院5",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院4",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "金逸影城3",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "金逸影城2",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "金逸影城1",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "金逸影城0",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          }
+        ],
+        "distribution_channel": {
+          "online": "61",
+          "line": "39",
+          "online_ticket": "958469999",
+          "line_ticket": "12343754"
+        }
+      },
+      {
+        "type": "3D",
+        "box_office_cumulative": "4730",
+        "box_office_calculate": "8796",
+        "weeks_list": [
+          {
+            "week": "三",
+            "data": "201612",
+            "day_list": [
+              {
+                "day": "18",
+                "date": "2016年12月18日",
+                "sunday": "日",
+                "day_box_office": "35674677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "31"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "67"
+                }
+              },
+              {
+                "day": "17",
+                "date": "2016年12月17日",
+                "sunday": "六",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "16",
+                "date": "2016年12月16日",
+                "sunday": "五",
+                "day_box_office": "32186677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "15",
+                "date": "2016年12月15日",
+                "sunday": "四",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "14",
+                "date": "2016年12月14日",
+                "sunday": "三",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "13",
+                "date": "2016年12月13日",
+                "sunday": "二",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "12",
+                "date": "2016年12月12日",
+                "sunday": "一",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              }
+            ]
+          },
+          {
+            "week": "二",
+            "data": "201612",
+            "day_list": [
+              {
+                "day": "18",
+                "date": "2016年12月18日",
+                "sunday": "日",
+                "day_box_office": "21174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "31"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "67"
+                }
+              },
+              {
+                "day": "17",
+                "date": "2016年12月17日",
+                "sunday": "六",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "16",
+                "date": "2016年12月16日",
+                "sunday": "五",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "15",
+                "date": "2016年12月15日",
+                "sunday": "四",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "14",
+                "date": "2016年12月14日",
+                "sunday": "三",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "13",
+                "date": "2016年12月13日",
+                "sunday": "二",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "12",
+                "date": "2016年12月12日",
+                "sunday": "一",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              }
+            ]
+          },
+          {
+            "week": "一",
+            "data": "201612",
+            "day_list": [
+              {
+                "day": "18",
+                "date": "2016年12月18日",
+                "sunday": "日",
+                "day_box_office": "21174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "31"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "67"
+                }
+              },
+              {
+                "day": "17",
+                "date": "2016年12月17日",
+                "sunday": "六",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "16",
+                "date": "2016年12月16日",
+                "sunday": "五",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "15",
+                "date": "2016年12月15日",
+                "sunday": "四",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "14",
+                "date": "2016年12月14日",
+                "sunday": "三",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "13",
+                "date": "2016年12月13日",
+                "sunday": "二",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "12",
+                "date": "2016年12月12日",
+                "sunday": "一",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              }
+            ]
+          }
+        ],
+        "district": [
+          {
+            "district_name": "华东区",
+            "district_calculate": "958469999",
+            "district_total": "456457646"
+          },
+          {
+            "district_name": "华东区",
+            "district_calculate": "958469999",
+            "district_total": "789457646"
+          },
+          {
+            "district_name": "华东区",
+            "district_calculate": "958469999",
+            "district_total": "123457646"
+          },
+          {
+            "district_name": "华东区",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          },
+          {
+            "district_name": "华北区",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          },
+          {
+            "district_name": "华北区",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          },
+          {
+            "district_name": "华北区",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          },
+          {
+            "district_name": "华北区",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          },
+          {
+            "district_name": "华北区",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          },
+          {
+            "district_name": "华北区",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          }
+        ],
+        "province": [
+          {
+            "province_name": "广东省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "广东省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "广东省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "广东省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          }
+        ],
+        "city": [
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "深圳",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          }
+        ],
+        "cinema": [
+          {
+            "cinema_name": "万达影院",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "金逸影城",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "金逸影城",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "金逸影城",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "金逸影城",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          }
+        ],
+        "distribution_channel": {
+          "online": "71",
+          "line": "29",
+          "online_ticket": "958469999",
+          "line_ticket": "645153754"
+        }
+      },
+      {
+        "type": "IMAX",
+        "box_office_cumulative": "5212",
+        "box_office_calculate": "7663",
+        "weeks_list": [
+          {
+            "week": "四",
+            "data": "201612",
+            "day_list": [
+              {
+                "day": "18",
+                "date": "2016年12月18日",
+                "sunday": "日",
+                "day_box_office": "23674677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "31"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "67"
+                }
+              },
+              {
+                "day": "17",
+                "date": "2016年12月17日",
+                "sunday": "六",
+                "day_box_office": "33674677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "16",
+                "date": "2016年12月16日",
+                "sunday": "五",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "15",
+                "date": "2016年12月15日",
+                "sunday": "四",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "14",
+                "date": "2016年12月14日",
+                "sunday": "三",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "13",
+                "date": "2016年12月13日",
+                "sunday": "二",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "12",
+                "date": "2016年12月12日",
+                "sunday": "一",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              }
+            ]
+          },
+          {
+            "week": "三",
+            "data": "201612",
+            "day_list": [
+              {
+                "day": "18",
+                "date": "2016年12月18日",
+                "sunday": "日",
+                "day_box_office": "21174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "31"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "67"
+                }
+              },
+              {
+                "day": "17",
+                "date": "2016年12月17日",
+                "sunday": "六",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "16",
+                "date": "2016年12月16日",
+                "sunday": "五",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "15",
+                "date": "2016年12月15日",
+                "sunday": "四",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "14",
+                "date": "2016年12月14日",
+                "sunday": "三",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "13",
+                "date": "2016年12月13日",
+                "sunday": "二",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "12",
+                "date": "2016年12月12日",
+                "sunday": "一",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              }
+            ]
+          },
+          {
+            "week": "二",
+            "data": "201612",
+            "day_list": [
+              {
+                "day": "18",
+                "date": "2016年12月18日",
+                "sunday": "日",
+                "day_box_office": "21174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "31"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "67"
+                }
+              },
+              {
+                "day": "17",
+                "date": "2016年12月17日",
+                "sunday": "六",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "16",
+                "date": "2016年12月16日",
+                "sunday": "五",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "15",
+                "date": "2016年12月15日",
+                "sunday": "四",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "14",
+                "date": "2016年12月14日",
+                "sunday": "三",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "13",
+                "date": "2016年12月13日",
+                "sunday": "二",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "12",
+                "date": "2016年12月12日",
+                "sunday": "一",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              }
+            ]
+          },
+          {
+            "week": "一",
+            "data": "201612",
+            "day_list": [
+              {
+                "day": "18",
+                "date": "2016年12月18日",
+                "sunday": "日",
+                "day_box_office": "21174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "31"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "67"
+                }
+              },
+              {
+                "day": "17",
+                "date": "2016年12月17日",
+                "sunday": "六",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "16",
+                "date": "2016年12月16日",
+                "sunday": "五",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "15",
+                "date": "2016年12月15日",
+                "sunday": "四",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "14",
+                "date": "2016年12月14日",
+                "sunday": "三",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "13",
+                "date": "2016年12月13日",
+                "sunday": "二",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "12",
+                "date": "2016年12月12日",
+                "sunday": "一",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              }
+            ]
+          }
+        ],
+        "district": [
+          {
+            "district_name": "华东区",
+            "district_calculate": "958469999",
+            "district_total": "369457646"
+          },
+          {
+            "district_name": "华东区",
+            "district_calculate": "958469999",
+            "district_total": "258457646"
+          },
+          {
+            "district_name": "华东区",
+            "district_calculate": "958469999",
+            "district_total": "147457646"
+          },
+          {
+            "district_name": "华东区",
+            "district_calculate": "958469999",
+            "district_total": "159457646"
+          },
+          {
+            "district_name": "华北区",
+            "district_calculate": "958469999",
+            "district_total": "753457646"
+          },
+          {
+            "district_name": "华北区",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          },
+          {
+            "district_name": "华北区",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          },
+          {
+            "district_name": "华北区",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          },
+          {
+            "district_name": "华北区",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          },
+          {
+            "district_name": "华北区",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          }
+        ],
+        "province": [
+          {
+            "province_name": "广东省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "广东省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "广东省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "广东省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          }
+        ],
+        "city": [
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "深圳",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          }
+        ],
+        "cinema": [
+          {
+            "cinema_name": "万达影院",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "金逸影城",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "金逸影城",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "金逸影城",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "金逸影城",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          }
+        ],
+        "distribution_channel": {
+          "online": "70",
+          "line": "30",
+          "online_ticket": "958469999",
+          "line_ticket": "645153754"
+        }
+      },
+      {
+        "type": "DMAX",
+        "box_office_cumulative": "1234",
+        "box_office_calculate": "5555",
+        "weeks_list": [
+          {
+            "week": "二",
+            "data": "201612",
+            "day_list": [
+              {
+                "day": "18",
+                "date": "2016年12月18日",
+                "sunday": "日",
+                "day_box_office": "21174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "31"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "67"
+                }
+              },
+              {
+                "day": "17",
+                "date": "2016年12月17日",
+                "sunday": "六",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "16",
+                "date": "2016年12月16日",
+                "sunday": "五",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "15",
+                "date": "2016年12月15日",
+                "sunday": "四",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "14",
+                "date": "2016年12月14日",
+                "sunday": "三",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "13",
+                "date": "2016年12月13日",
+                "sunday": "二",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "12",
+                "date": "2016年12月12日",
+                "sunday": "一",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              }
+            ]
+          },
+          {
+            "week": "一",
+            "data": "201612",
+            "day_list": [
+              {
+                "day": "18",
+                "date": "2016年12月18日",
+                "sunday": "日",
+                "day_box_office": "21174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "31"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "67"
+                }
+              },
+              {
+                "day": "17",
+                "date": "2016年12月17日",
+                "sunday": "六",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "16",
+                "date": "2016年12月16日",
+                "sunday": "五",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "15",
+                "date": "2016年12月15日",
+                "sunday": "四",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "14",
+                "date": "2016年12月14日",
+                "sunday": "三",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "13",
+                "date": "2016年12月13日",
+                "sunday": "二",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              },
+              {
+                "day": "12",
+                "date": "2016年12月12日",
+                "sunday": "一",
+                "day_box_office": "32174677",
+                "box_office": {
+                  "calculate": "4000",
+                  "total": "2000"
+                },
+                "film_number": {
+                  "calculate": "88",
+                  "total": "60"
+                },
+                "peoples": {
+                  "calculate": "2.6",
+                  "total": "1.9"
+                },
+                "occupancy": {
+                  "calculate": "100",
+                  "total": "32"
+                },
+                "seats": {
+                  "calculate": "100",
+                  "total": "66"
+                }
+              }
+            ]
+          }
+        ],
+        "district": [
+          {
+            "district_name": "华东区",
+            "district_calculate": "958469999",
+            "district_total": "123457646"
+          },
+          {
+            "district_name": "华东区",
+            "district_calculate": "958469999",
+            "district_total": "456457646"
+          },
+          {
+            "district_name": "华东区",
+            "district_calculate": "958469999",
+            "district_total": "789457646"
+          },
+          {
+            "district_name": "华东区",
+            "district_calculate": "958469999",
+            "district_total": "753457646"
+          },
+          {
+            "district_name": "华北区",
+            "district_calculate": "958469999",
+            "district_total": "963457646"
+          },
+          {
+            "district_name": "华北区",
+            "district_calculate": "958469999",
+            "district_total": "125457646"
+          },
+          {
+            "district_name": "华北区",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          },
+          {
+            "district_name": "华北区",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          },
+          {
+            "district_name": "华北区",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          },
+          {
+            "district_name": "华北区",
+            "district_calculate": "958469999",
+            "district_total": "825457646"
+          }
+        ],
+        "province": [
+          {
+            "province_name": "广东省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "广东省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "广东省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "广东省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          },
+          {
+            "province_name": "浙江省",
+            "provincet_calculate": "958469999",
+            "province_total": "825457646"
+          }
+        ],
+        "city": [
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "广州",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          },
+          {
+            "city_name": "深圳",
+            "city_calculate": "958469999",
+            "city_total": "825457646"
+          }
+        ],
+        "cinema": [
+          {
+            "cinema_name": "万达影院",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "万达影院",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "金逸影城",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "金逸影城",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "金逸影城",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          },
+          {
+            "cinema_name": "金逸影城",
+            "cinema_calculate": "958469999",
+            "cinema_total": "825457646"
+          }
+        ],
+        "distribution_channel": {
+          "online": "75",
+          "line": "25",
+          "online_ticket": "958469999",
+          "line_ticket": "645153754"
+        }
+      }
+    ]
+  }
+}
