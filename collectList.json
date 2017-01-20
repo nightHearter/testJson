@@ -1,129 +1,129 @@
 {
-  "code": 0,
-  "message": "success",
-  "result": {
-    "detail": [
-      {
-        "isCollected": 1,
-        "movie_id": 768,
-        "movie_img": "/api/v3/ZhiYingFengZhang/poster",
-        "movie_name": "\u5012\u9709\u7684\u4e00\u5929",
-        "movie_style": "\u6050\u6016/\u60ca\u609a",
-        "play_date": "0",
-        "play_year": 2016,
-        "predict_box_office": 113857946,
-        "predict_time": 0,
-        "total_box_office": 128091092
-      },
-      {
-        "isCollected": 1,
-        "movie_id": 1280,
-        "movie_img": "/api/v3/ZhiYingFengZhang/poster",
-        "movie_name": "\u591c\u534a\u54ed\u58f0",
-        "movie_style": "\u52a8\u753b/\u519b\u4e8b/\u5192\u9669/\u6050\u6016",
-        "play_date": "0",
-        "play_year": 2016,
-        "predict_box_office": 145974292,
-        "predict_time": 0,
-        "total_box_office": 51928059
-      },
-      {
-        "isCollected": 1,
-        "movie_id": 769,
-        "movie_img": "/api/v3/ZhiYingFengZhang/poster",
-        "movie_name": "\u57ab\u5e95\u8fa3\u59b9",
-        "movie_style": "\u5267\u60c5/\u60ac\u7591/\u5bb6\u5ead/\u4e3b\u65cb\u5f8b/\u5267\u60c5/\u5bb6\u5ead",
-        "play_date": "0",
-        "play_year": 2016,
-        "predict_box_office": 163687979,
-        "predict_time": 0,
-        "total_box_office": 154315875
-      },
-      {
-        "isCollected": 1,
-        "movie_id": 1025,
-        "movie_img": "/api/v3/ZhiYingFengZhang/poster",
-        "movie_name": "\u5916\u516c\u82b3\u9f8438",
-        "movie_style": "\u5267\u60c5/\u52a8\u753b|\u5bb6\u5ead|\u5947\u5e7b/\u559c\u5267/\u5267\u60c5",
-        "play_date": "0",
-        "play_year": 2016,
-        "predict_box_office": 172173621,
-        "predict_time": 0,
-        "total_box_office": 57265789
-      },
-      {
-        "isCollected": 1,
-        "movie_id": 1281,
-        "movie_img": "/api/v3/ZhiYingFengZhang/poster",
-        "movie_name": "\u4e0a\u6d77\u82f1\u56fd\u7535\u5f71\u5468",
-        "movie_style": "\u52a8\u753b/\u79d1\u5e7b/\u52a8\u4f5c",
-        "play_date": "0",
-        "play_year": 2016,
-        "predict_box_office": 120207424,
-        "predict_time": 0,
-        "total_box_office": 187021038
-      },
-      {
-        "isCollected": 1,
-        "movie_id": 1026,
-        "movie_img": "/api/v3/ZhiYingFengZhang/poster",
-        "movie_name": "\u8de8\u56fd\u5927\u8ffd\u6355\uff1a\u9633\u5149\u4e0b\u7684\u7f6a\u6076",
-        "movie_style": "\u7231\u60c5/\u559c\u5267",
-        "play_date": "0",
-        "play_year": 2016,
-        "predict_box_office": 131927275,
-        "predict_time": 0,
-        "total_box_office": 89602294
-      },
-      {
-        "isCollected": 1,
-        "movie_id": 1283,
-        "movie_img": "/api/v3/ZhiYingFengZhang/poster",
-        "movie_name": "\u5c0f\u9b54\u4ed9\u4e4b\u9ed1\u9b54\u6cd5\u6765\u88ad",
-        "movie_style": "\u5947\u5e7b/\u519b\u4e8b",
-        "play_date": "0",
-        "play_year": 2016,
-        "predict_box_office": 187632788,
-        "predict_time": 0,
-        "total_box_office": 127034201
-      },
-      {
-        "isCollected": 1,
-        "movie_id": 1284,
-        "movie_img": "/api/v3/ZhiYingFengZhang/poster",
-        "movie_name": "\u73a9\u547d\u5267\u7ec4",
-        "movie_style": "\u52a8\u753b/\u5947\u5e7b/\u6000\u65e7/\u5267\u60c5",
-        "play_date": "0",
-        "play_year": 2016,
-        "predict_box_office": 179796980,
-        "predict_time": 0,
-        "total_box_office": 107654030
-      },
-      {
-        "isCollected": 1,
-        "movie_id": 1032,
-        "movie_img": "/api/v3/ZhiYingFengZhang/poster",
-        "movie_name": "\u5341\u6708\u9633\u6625",
-        "movie_style": "\u559c\u5267/\u52a8\u4f5c/\u79d1\u5e7b/\u52a8\u753b",
-        "play_date": "0",
-        "play_year": 2016,
-        "predict_box_office": 105716421,
-        "predict_time": 0,
-        "total_box_office": 107546311
-      },
-      {
-        "isCollected": 1,
-        "movie_id": 1290,
-        "movie_img": "/api/v3/ZhiYingFengZhang/poster",
-        "movie_name": "\u8352\u6751\u51f6\u95f4",
-        "movie_style": "\u559c\u5267/\u7231\u60c5/\u6050\u6016",
-        "play_date": "0",
-        "play_year": 2016,
-        "predict_box_office": 189939314,
-        "predict_time": 0,
-        "total_box_office": 188662843
-      }
-    ],
-    "len": 10
-  }
+    "code": 0,
+    "message": "success",
+    "result": {
+        "detail": [
+                   {
+                   movie_img: "/api/v3/ZhiYingFengZhang/poster?movie_id=209",
+                   play_date: "0",
+                   predict_box_office: 166859820,
+                   movie_id: 209,
+                   play_year: 2016,
+                   predict_time: 0,
+                   isCollected: 1,
+                   movie_style: "爱情/奇幻",
+                   total_box_office: 107990827,
+                   movie_name: "敬礼检察官"
+                   },
+                   {
+                   movie_img: "/api/v3/ZhiYingFengZhang/poster?movie_id=283",
+                   play_date: "0",
+                   predict_box_office: 176182792,
+                   movie_id: 283,
+                   play_year: 2016,
+                   predict_time: 0,
+                   isCollected: 1,
+                   movie_style: "剧情/少儿/现代/童话/动作/年代",
+                   total_box_office: 137273235,
+                   movie_name: "真相禁区"
+                   },
+                   {
+                   movie_img: "/api/v3/ZhiYingFengZhang/poster?movie_id=288",
+                   play_date: "0",
+                   predict_box_office: 176799672,
+                   movie_id: 288,
+                   play_year: 2016,
+                   predict_time: 0,
+                   isCollected: 1,
+                   movie_style: "罪案/剧情/言情/动作/悬疑/搞笑/偶像",
+                   total_box_office: 80577025,
+                   movie_name: "军号密码"
+                   },
+                   {
+                   movie_img: "/api/v3/ZhiYingFengZhang/poster?movie_id=293",
+                   play_date: "0",
+                   predict_box_office: 177346937,
+                   movie_id: 293,
+                   play_year: 2016,
+                   predict_time: 0,
+                   isCollected: 1,
+                   movie_style: "古装/奇幻/动作/怀旧/喜剧 ",
+                   total_box_office: 81242969,
+                   movie_name: "女神时代"
+                   },
+                   {
+                   movie_img: "/api/v3/ZhiYingFengZhang/poster?movie_id=353",
+                   play_date: "0",
+                   predict_box_office: 186431103,
+                   movie_id: 353,
+                   play_year: 2016,
+                   predict_time: 0,
+                   isCollected: 1,
+                   movie_style: "纪录片/亲子",
+                   total_box_office: 98434506,
+                   movie_name: "百家拳之关门弟子"
+                   },
+                   {
+                   movie_img: "/api/v3/ZhiYingFengZhang/poster?movie_id=357",
+                   play_date: "0",
+                   predict_box_office: 112259882,
+                   movie_id: 357,
+                   play_year: 2016,
+                   predict_time: 0,
+                   isCollected: 1,
+                   movie_style: "悬疑/喜剧",
+                   total_box_office: 183207416,
+                   movie_name: "极限挑战之皇家宝藏"
+                   },
+                   {
+                   movie_img: "/api/v3/ZhiYingFengZhang/poster?movie_id=358",
+                   play_date: "0",
+                   predict_box_office: 139784394,
+                   movie_id: 358,
+                   play_year: 2016,
+                   predict_time: 0,
+                   isCollected: 1,
+                   movie_style: "惊悚/悬疑/都市爱情/剧情",
+                   total_box_office: 68372609,
+                   movie_name: "国酒"
+                   },
+                   {
+                   movie_img: "/api/v3/ZhiYingFengZhang/poster?movie_id=363",
+                   play_date: "0",
+                   predict_box_office: 194905200,
+                   movie_id: 363,
+                   play_year: 2016,
+                   predict_time: 0,
+                   isCollected: 1,
+                   movie_style: "剧情",
+                   total_box_office: 91913463,
+                   movie_name: "被风吹过的记忆"
+                   },
+                   {
+                   movie_img: "/api/v3/ZhiYingFengZhang/poster?movie_id=374",
+                   play_date: "0",
+                   predict_box_office: 175402686,
+                   movie_id: 374,
+                   play_year: 2016,
+                   predict_time: 0,
+                   isCollected: 1,
+                   movie_style: "冒险/喜剧 ",
+                   total_box_office: 131367154,
+                   movie_name: "高跟鞋先生"
+                   },
+                   {
+                   movie_img: "/api/v3/ZhiYingFengZhang/poster?movie_id=391",
+                   play_date: "0",
+                   predict_box_office: 170128518,
+                   movie_id: 391,
+                   play_year: 2016,
+                   predict_time: 0,
+                   isCollected: 0,
+                   movie_style: "动作/冒险/科幻",
+                   total_box_office: 174163025,
+                   movie_name: "戎肯"
+                   }
+                   ],
+        "len": 10
+    }
 }
