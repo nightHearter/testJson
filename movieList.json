@@ -1,0 +1,126 @@
+{
+  "code": 0,
+  "message": "success",
+  "result": [
+    {
+      "isCollected": 0,
+      "movie_id": 10000,
+      "movie_img": "https://ws3.sinaimg.cn/large/9632d3f5jw1fayd1y7jexj20ku0dw10t.jpg",
+      "movie_name": "泰坦尼克号",
+      "movie_style": "爱情/剧情",
+      "play_date": "0",
+      "play_year": 2016,
+      "predict_box_office": 12346,
+      "predict_time": 10,
+      "total_box_office": 183212890
+    },
+    {
+      "isCollected": 1,
+      "movie_id": 10001,
+      "movie_img": "https://ws4.sinaimg.cn/large/9632d3f5jw1fayd1xpdnvj20ku0dwjuu.jpg",
+      "movie_name": "泰坦尼克号",
+      "movie_style": "爱情/剧情",
+      "play_date": "0",
+      "play_year": 2016,
+      "predict_box_office": 12346,
+      "predict_time": 10,
+      "total_box_office": 183212890
+    },
+    {
+      "isCollected": 0,
+      "movie_id": 10002,
+      "movie_img": "https://ws3.sinaimg.cn/large/9632d3f5jw1fayd1ycwzbj20ku0dw0zf.jpg",
+      "movie_name": "泰坦尼克号",
+      "movie_style": "爱情/剧情",
+      "play_date": "0",
+      "play_year": 2016,
+      "predict_box_office": 12346,
+      "predict_time": 10,
+      "total_box_office": 183212890
+    },
+    {
+      "isCollected": 1,
+      "movie_id": 10003,
+      "movie_img": "https://ws1.sinaimg.cn/large/9632d3f5jw1fayd1y6ky0j20ku0dw0yo.jpg",
+      "movie_name": "泰坦尼克号",
+      "movie_style": "爱情/剧情",
+      "play_date": "0",
+      "play_year": 2016,
+      "predict_box_office": 12346,
+      "predict_time": 10,
+      "total_box_office": 183212890
+    },
+    {
+      "isCollected": 0,
+      "movie_id": 10004,
+      "movie_img": "https://ws4.sinaimg.cn/large/9632d3f5jw1fayd1y3aydj20ku0dwn3z.jpg",
+      "movie_name": "泰坦尼克号",
+      "movie_style": "爱情/剧情",
+      "play_date": "0",
+      "play_year": 2016,
+      "predict_box_office": 12346,
+      "predict_time": 10,
+      "total_box_office": 183212890
+    },
+    {
+      "isCollected": 0,
+      "movie_id": 10005,
+      "movie_img": "https://ws3.sinaimg.cn/large/9632d3f5jw1fayd1y97ilj20ku0dwq8r.jpg",
+      "movie_name": "泰坦尼克号",
+      "movie_style": "爱情/剧情",
+      "play_date": "0",
+      "play_year": 2016,
+      "predict_box_office": 12346,
+      "predict_time": 10,
+      "total_box_office": 183212890
+    },
+    {
+      "isCollected": 1,
+      "movie_id": 10006,
+      "movie_img": "https://ws1.sinaimg.cn/large/9632d3f5jw1fayd1xureoj20ku0dw1gx.jpg",
+      "movie_name": "泰坦尼克号",
+      "movie_style": "爱情/剧情",
+      "play_date": "0",
+      "play_year": 2016,
+      "predict_box_office": 12346,
+      "predict_time": 10,
+      "total_box_office": 183212890
+    },
+    {
+      "isCollected": 0,
+      "movie_id": 10007,
+      "movie_img": "https://ws2.sinaimg.cn/large/9632d3f5jw1fayd1xndrhj20ku0dwh70.jpg",
+      "movie_name": "泰坦尼克号",
+      "movie_style": "爱情/剧情",
+      "play_date": "0",
+      "play_year": 2016,
+      "predict_box_office": 12346,
+      "predict_time": 10,
+      "total_box_office": 183212890
+    },
+    {
+      "isCollected": 0,
+      "movie_id": 10008,
+      "movie_img": "https://ws4.sinaimg.cn/large/9632d3f5jw1fayd1yg4kjj20ku0dw7az.jpg",
+      "movie_name": "泰坦尼克号",
+      "movie_style": "爱情/剧情",
+      "play_date": "0",
+      "play_year": 2016,
+      "predict_box_office": 12346,
+      "predict_time": 10,
+      "total_box_office": 183212890
+    },
+    {
+      "isCollected": 0,
+      "movie_id": 10009,
+      "movie_img": "https://ws2.sinaimg.cn/large/9632d3f5jw1fayd1ycfrsj20ku0dw0xp.jpg",
+      "movie_name": "泰坦尼克号",
+      "movie_style": "爱情/剧情",
+      "play_date": "0",
+      "play_year": 2016,
+      "predict_box_office": 12346,
+      "predict_time": 10,
+      "total_box_office": 183212890
+    }
+  ]
+}
